@@ -785,6 +785,10 @@ span.text-red {
 	.product {
 		padding: 20px 5px;
 	}
+
+    .product:hover {
+        transform: none !important;
+    }
 	.product .cart-product-image {
 		width: 25%;
 		height: 25%;
