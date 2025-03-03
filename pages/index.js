@@ -21,7 +21,7 @@ const Home = ({ products, bannerData }) => (
 		<div>
 			<div className="products-heading">
 				<h2>MEN</h2>
-				<p>Take a look at our classic collection of abayas...</p>
+				<p>Dive into the world of masculine fashion sense with us...</p>
 			</div>
 
 			<div className="products mb-[200px]">
@@ -35,7 +35,7 @@ const Home = ({ products, bannerData }) => (
 		<div>
 			<div className="products-heading">
 				<h2>WOMEN</h2>
-				<p>Take a look at our classic collection of abayas...</p>
+				<p>Elegant and Deluxe, welcome to bizmah.</p>
 			</div>
 
 			<div className="products-container products">
@@ -50,7 +50,7 @@ const Home = ({ products, bannerData }) => (
 			<FooterBanner footerBanner={bannerData && bannerData[0]} />
 			<div className="products-heading">
 				<h2>KIDS</h2>
-				<p>Take a look at our classic collection of abayas...</p>
+				<p>See what you can also pickup for your little ones right here...</p>
 			</div>
 
 			<div className="mx-20 w-96 products">

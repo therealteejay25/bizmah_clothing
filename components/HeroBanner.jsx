@@ -18,7 +18,7 @@ const HeroBanner = () => {
 			</div>
 			<img
 				src={'/abaya.png'}
-				alt="headphones"
+				alt="abayas"
 				className="hero-banner-image"
 			/>
 		</div>

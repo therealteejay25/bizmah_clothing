@@ -9,7 +9,7 @@ const Footer = () => {
 				<a href="https//instagram.com/bizmah2023">
 					<AiFillInstagram />
 				</a>
-                <p className='text-sm'>bizmahclothing@gmail.com</p>
+                <p className='text-sm'>bizmahclothing2023@gmail.com</p>
 			</p>
             <div>
                 <p>+1 (780) 690 8497</p>
